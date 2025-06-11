@@ -4,7 +4,7 @@ class Hello{
         byte by=123;
         short sh=232;
         long l=132131l;
-        char c='k';
+        char c='k';    //literals
         boolean b=true;
 
         float marks=123.23f;
